@@ -1,4 +1,4 @@
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2020/06/vscode-2020-eyecatch-1200x630-1.png))
+![This is an image](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
 
 
 - 👋 Hi, I’m @suradachk
